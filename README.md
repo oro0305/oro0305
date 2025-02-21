@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @oro0305 founder of Minder 
-- 👀 I’m interested in coding smart contracts
-- 🌱 I’m currently learning solidity, but I need to learn basics of localhost and so on...
+- 👋 Hi, I’m @oro0305 founder of Harvest Labs 
+- 👀 I’m not a dev, but can read code
+- 🌱 I’m building crazy things with a very good marketing background
 - 💞️ I’m looking to collaborate with coders.
-- 📫 How to reach me maxence.minder@gmail.com
+- 📫 How to reach me maxjollivet@harvesthub.xyz
 
 <!---
 oro0305/oro0305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
